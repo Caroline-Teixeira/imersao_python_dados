@@ -7,4 +7,4 @@
 <p>pip install plotly</p>
 
 <h2>Branch : colab</h2>
-Dados no Google colab
+Feito no <a href="https://github.com/Caroline-Teixeira/imersao_python_dados/tree/colab">Google Colab</a>
